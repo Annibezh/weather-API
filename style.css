@@ -1,0 +1,55 @@
+.block-one-day{
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    height: auto;
+    text-align: center; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#current-day-block{
+    background-color: aliceblue;
+    text-align: center;    
+}
+#block-hours{
+    text-align: center;
+    height: 100%;
+    width: 12.5%;
+    display: inline-block;
+}
+#icon{
+    width: 40px;
+    margin: auto;
+}
+.small-icon{
+    width: 20px;
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+p{
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+hr{
+    border: none; 
+    color: red;
+    background-color: red; 
+    height: 1px; 
+    width: 90%;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#city{
+    color: rgb(3, 3, 138);
+}
+.header{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+}
