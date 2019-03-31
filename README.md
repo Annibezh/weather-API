@@ -1,4 +1,4 @@
-#Forecast for 5 days
+# Forecast for 5 days
 Stack of technologies:
 - HTML5, CSS3
 - JS (jQuery)
